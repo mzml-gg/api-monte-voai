@@ -1,0 +1,10 @@
+{
+  "name": "api-monte-voa",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "api/voice.js",
+    "scripts": {
+    "start": "node api/voice.js"
+  },
+  "dependencies": {}
+}
